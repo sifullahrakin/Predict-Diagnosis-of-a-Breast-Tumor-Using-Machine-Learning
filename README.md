@@ -1,0 +1,2 @@
+# Predict-Diagnosis-of-a-Breast-Tumor-Using-Machine-Learning
+This is a work to make a machine learning model to which can predict breast tumor. For this work here we use Supervised machine learning model. For the dataset we use a American dataset which maintained by the University of California, Irvine. The dataset contains 569 samples of malignant and benign tumor cells. For training I use 70% data and 30% for testing. Here I use SVM classifier algorithm for prediction.
